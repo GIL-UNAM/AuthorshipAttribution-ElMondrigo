@@ -1,0 +1,1760 @@
+Combinaiton: ('char3.csv', 'func3.csv', 'func3g.csv')
+Primer Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Segundo Cluster
+['3c']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'lexsl.csv')
+Primer Cluster
+['2a', '2b', '3d', '3e', '4a', '4b', '4c', '5a', '5d', '5f', '5g', '5j', '2c', '2d']
+Segundo Cluster
+['3c']
+Tercer Cluster
+['1a', '1b', '1c', '3a', '3b', '5b', '5c', '5h', '5i']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'lexwl.csv')
+Primer Cluster
+['1a', '2a', '2b', '3d', '3e', '4a', '4b', '4c', '5a', '5d', '5f', '5g', '5j', '2c', '2d']
+Segundo Cluster
+['1b', '1c', '3a', '3b', '5b', '5c', '5h', '5i']
+Tercer Cluster
+['3c']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'pos3.csv')
+Primer Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Segundo Cluster
+['3c']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'posbeg.csv')
+Primer Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Segundo Cluster
+['3c']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'posend.csv')
+Primer Cluster
+['3c']
+Segundo Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3c']
+Segundo Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'possh3.csv')
+Primer Cluster
+['3c']
+Segundo Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'punct.csv')
+Primer Cluster
+['1a', '1b', '1c', '2a', '2b', '3a', '3b', '3d', '3e', '4a', '4b', '4c', '5a', '5b', '5c', '5d', '5f', '5h', '5i', '5j', '2c', '2d']
+Segundo Cluster
+['3c']
+Tercer Cluster
+['5g']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'lexsl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'lexwl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'func3g.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'lexwl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexsl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'lexwl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'pos3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('char3.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'lexsl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'lexwl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'func3g.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'lexwl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexsl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'lexwl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'pos3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'lexwl.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexsl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'lexwl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'pos3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('func3g.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'pos3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'lexwl.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'pos3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexsl.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'posbeg.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'pos3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('lexwl.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posbeg.csv', 'posend.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posbeg.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posbeg.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posbeg.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posbeg.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('pos3.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'posend.csv', 'possh1nvpa.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'posend.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'posend.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'posend.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posbeg.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'possh1nvpa.csv', 'possh3.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'possh1nvpa.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'possh1nvpa.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('posend.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('possh1nvpa.csv', 'possh3.csv', 'punct.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('possh1nvpa.csv', 'possh3.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('possh1nvpa.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
+Combinaiton: ('possh3.csv', 'punct.csv', 'vocab.csv')
+Primer Cluster
+['3a', '3b', '5b', '5c', '5j']
+Segundo Cluster
+['1c', '2a', '2b', '3c', '4b', '4c', '5a', '5h', '2c']
+Tercer Cluster
+['1a', '1b', '3d', '3e', '4a', '5d', '5f', '5g', '5i', '2d']
+---------------------------------------------------------------
