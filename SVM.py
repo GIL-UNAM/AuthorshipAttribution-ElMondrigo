@@ -16,8 +16,7 @@ marcadores = set(re.search(r'[a-z]+_(?P<name>[A-Z0-9]+)\.csv$',file).group("name
 index = 1
 
 
-#for type in marcadores:
-for type in ["BC"]:
+for type in marcadores:
    os.chdir(BASE_FOLDER)
    print(f'-------------{type}------------')
    chimal = pd.read_csv(f'./data/{autors[0]}_{type}.csv')
@@ -36,7 +35,7 @@ for type in ["BC"]:
          'degree': [i for i in range(3,8)]
       }
       cv = StratifiedKFold(n_splits=2,shuffle=True)
-      grid = GridSearchCV(SVC(kernel=kernel), param_grid, cv = cv, refit = True,scoring='precision_micro') 
+      grid = GridSearchCV(SVC(kernel=kernel), param_grid, cv = cv, refit = True) 
       grid.fit(x_train, y_train)
       
       test_score = round(grid.score(x_test,y_test),4)
