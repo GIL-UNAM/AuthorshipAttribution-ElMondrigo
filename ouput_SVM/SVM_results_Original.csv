@@ -1,0 +1,128 @@
+marcador,linear,sigmoid,rbf,poly
+CGFO,"C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 100
+gamma: 0.01
+cross-validation-score: 41.67%
+test-score: 50.0%","C: 10
+gamma: 10
+cross-validation-score: 50.0%
+test-score: 41.67%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%"
+UPOS,"C: 0.1
+gamma: 0.001
+cross-validation-score: 58.330000000000005%
+test-score: 58.330000000000005%","C: 100
+gamma: 0.001
+cross-validation-score: 58.330000000000005%
+test-score: 58.330000000000005%","C: 10
+gamma: 0.01
+cross-validation-score: 50.0%
+test-score: 50.0%","C: 0.001
+degree: 3
+gamma: 0.1
+cross-validation-score: 66.67%
+test-score: 58.330000000000005%"
+LO,"C: 0.01
+gamma: 0.001
+cross-validation-score: 41.67%
+test-score: 66.67%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%"
+BC,"C: 1
+gamma: 0.001
+cross-validation-score: 66.67%
+test-score: 58.330000000000005%","C: 100
+gamma: 0.01
+cross-validation-score: 58.330000000000005%
+test-score: 58.330000000000005%","C: 10
+gamma: 0.1
+cross-validation-score: 50.0%
+test-score: 66.67%","C: 0.001
+degree: 6
+gamma: 0.1
+cross-validation-score: 75.0%
+test-score: 58.330000000000005%"
+UPOSNF,"C: 1
+gamma: 0.001
+cross-validation-score: 41.67%
+test-score: 33.33%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 10
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 25.0%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%"
+UPF,"C: 0.1
+gamma: 0.001
+cross-validation-score: 50.0%
+test-score: 33.33%","C: 100
+gamma: 0.001
+cross-validation-score: 50.0%
+test-score: 33.33%","C: 10
+gamma: 0.01
+cross-validation-score: 50.0%
+test-score: 33.33%","C: 0.001
+degree: 3
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 33.33%"
+CGIO,"C: 1
+gamma: 0.001
+cross-validation-score: 41.67%
+test-score: 50.0%","C: 100
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 33.33%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%"
+TPOS,"C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 10
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 33.33%","C: 10
+gamma: 0.01
+cross-validation-score: 50.0%
+test-score: 33.33%","C: 0.1
+degree: 5
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 41.67%"
+marcador,linear,sigmoid,rbf,poly
+BC,"C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 100
+gamma: 0.01
+cross-validation-score: 50.0%
+test-score: 58.330000000000005%","C: 100
+gamma: 0.01
+cross-validation-score: 58.330000000000005%
+test-score: 58.330000000000005%","C: 0.001
+degree: 3
+gamma: 1
+cross-validation-score: 41.67%
+test-score: 66.67%"
