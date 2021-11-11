@@ -19,8 +19,8 @@ index = 1
 for type in marcadores:
    os.chdir(BASE_FOLDER)
    print(f'-------------{type}------------')
-   chimal = pd.read_csv(f'./data/{autors[0]}_{type}.csv')
-   mondrigo = pd.read_csv(f'./data/{autors[1]}_{type}.csv')
+   chimal = pd.read_csv(f'../data/SVC/{autors[0]}_{type}.csv')
+   mondrigo = pd.read_csv(f'../data/SVC/{autors[1]}_{type}.csv')
    full_metrics = mondrigo.set_index('doc_id').combine_first(chimal.set_index('doc_id')).fillna(0)
    x_train, x_test, y_train, y_test = train_test_split_full(full_metrics)
 
