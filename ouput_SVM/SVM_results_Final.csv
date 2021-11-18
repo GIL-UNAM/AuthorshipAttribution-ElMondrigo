@@ -1,0 +1,29 @@
+marcador,linear,sigmoid,rbf,poly
+BPF2H,"C: 0.001
+gamma: 0.001
+cross-validation-score: 37.5%
+test-score: 35.29%","C: 0.001
+gamma: 0.001
+cross-validation-score: 25.0%
+test-score: 41.18%","C: 0.001
+gamma: 0.001
+cross-validation-score: 25.0%
+test-score: 35.29%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 43.75%
+test-score: 23.53%"
+LP,"C: 1
+gamma: 0.001
+cross-validation-score: 37.5%
+test-score: 52.94%","C: 0.001
+gamma: 0.001
+cross-validation-score: 25.0%
+test-score: 47.06%","C: 10
+gamma: 0.01
+cross-validation-score: 43.75%
+test-score: 64.71000000000001%","C: 0.001
+degree: 7
+gamma: 0.01
+cross-validation-score: 37.5%
+test-score: 52.94%"

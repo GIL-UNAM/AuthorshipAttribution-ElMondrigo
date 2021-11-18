@@ -51,3 +51,13 @@ def train_test_split_full(df):
     return df.loc[train_keys_full], df.loc[test_keys_full],\
            [books[key][0] for key in train_keys_full], \
            [books[key][0] for key in test_keys_full]
+
+corpus = {
+    "Emilio Uranga": [f"uranga{i}" for i in range(1,10)],
+    "Blanco Moheno": ["blancomoheno1", "blancomoheno1b", "blancomoheno2", "blancomoheno2b", "blancomoheno3", "blancomoheno4"],
+    "Jorge Joseph": [f"jorgejoseph{i}" for i in range(1,6)],
+    "Ortega Molina": [f"ortegamolina{i}" for i in range(1,4)],
+    "Ortega Hernandez": [f"ortegahernandez{i}" for i in range(1,4)],
+    "El Mondrigo":  ["mondrigo"],
+    "Alberto Chimal": [f'albertochimal{i}' for i in range(1,10)]
+}
