@@ -126,3 +126,33 @@ degree: 3
 gamma: 1
 cross-validation-score: 41.67%
 test-score: 66.67%"
+marcador,linear,sigmoid,rbf,poly
+CGIO,"C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 100
+gamma: 0.1
+cross-validation-score: 41.67%
+test-score: 33.33%","C: 10
+gamma: 1
+cross-validation-score: 41.67%
+test-score: 50.0%","C: 0.001
+degree: 3
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%"
+marcador,linear,sigmoid,rbf,poly
+BPF2H,"C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+gamma: 0.001
+cross-validation-score: 33.33%
+test-score: 41.67%","C: 0.001
+degree: 6
+gamma: 0.1
+cross-validation-score: 50.0%
+test-score: 16.669999999999998%"
