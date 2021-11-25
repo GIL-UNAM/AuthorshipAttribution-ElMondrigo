@@ -53,3 +53,5 @@ For example, if you want to run the burrows and kilgariff experiments:
   ```bash
   python main.py burrows kilgariff
   ```
+
+If you want to run the codes, they are in the `utils` folder, where you can see how the results come out and what each code does. 
