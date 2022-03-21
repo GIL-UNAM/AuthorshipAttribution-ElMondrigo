@@ -55,3 +55,8 @@ For example, if you want to run the burrows and kilgariff experiments:
   ```
 
 If you want to run the codes, they are in the `utils` folder, where you can see how the results come out and what each code does. 
+
+## :pencil: How to cite
+If you use the corpus please cite the following articles:
+
+1)Sierra, G., Hernández-García, T., Gómez-Adorno, H., & Bel-Enguix, G. A case study in authorship attribution: The Mondrigo. Journal of Intelligent & Fuzzy Systems, (Preprint), 1-8.
