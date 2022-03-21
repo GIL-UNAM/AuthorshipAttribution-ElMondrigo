@@ -58,4 +58,4 @@ If you want to run the codes, they are in the `utils` folder, where you can see 
 
 ## :pencil: How to cite
 
-1)Sierra, G., Hernández-García, T., Gómez-Adorno, H., & Bel-Enguix, G. A case study in authorship attribution: The Mondrigo. Journal of Intelligent & Fuzzy Systems, (Preprint), 1-8.
+1) Sierra, G., Hernández-García, T., Gómez-Adorno, H., & Bel-Enguix, G. [A case study in authorship attribution: The Mondrigo. Journal of Intelligent & Fuzzy Systems](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219236), (Preprint), 1-8.
